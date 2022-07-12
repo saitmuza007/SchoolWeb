@@ -1,0 +1,39 @@
+@media only screen and (max-width:480px) {
+#lio
+{
+
+}
+#hg
+{
+  height:70vh;
+}
+
+}
+@media only screen and (max-width:767px) {
+
+#lio
+{
+
+}
+#hg
+{
+  height:70vh;
+}
+
+
+}
+@media only screen and (max-width:1023px) {
+  #hg
+  {
+    height:70vh;
+  }
+
+}
+@media only screen and (max-width:1200px) {
+  #hg
+  {
+    height:70vh;
+  }
+
+
+}

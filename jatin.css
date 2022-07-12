@@ -1,0 +1,31 @@
+#er
+{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,1)),url(jatin.jpg);
+  background-size: cover;
+  height:1000px;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+#gy
+{
+  color:#ffff;
+  font-family: 'Bungee', cursive;
+  text-align:justify;
+}
+#bad
+{
+  border-radius:50px;
+  border:2px solid #ffff;
+
+}
+#cl{
+  color: #ffff;
+}
+#re
+{
+  color: #ffff;
+}
+.nav-link:hover{
+  
+  border-bottom: 2px solid red;
+}

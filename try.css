@@ -1,0 +1,244 @@
+#log
+{
+  height:80px;
+
+}
+#logs
+{
+  height:150px;
+}
+#cl
+{
+  font-family: 'Teko', sans-serif;
+  font-size:16px;
+  color:#ffff;
+
+}
+#bh
+{
+
+  color:#ffff;
+
+}
+#hg
+{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(mjk.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+}
+
+
+#gf
+{
+  color: #ffff;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  word-spacing:3px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding-top:200px;
+
+}
+
+#gfu
+{
+  color: #ffff;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  word-spacing:3px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+}
+#lio
+{
+  margin-top:50px;
+  margin-left:-197px;
+  color:#ffff;
+  font-size:10px;
+}
+#btn
+{
+  border-radius: 20px;
+  padding: 10px;
+ margin-left:350px;
+  font-family: 'Arvo', serif;
+
+
+
+}
+#btn1
+{
+  border-radius: 20px;
+  padding: 20px;
+  padding:10px 30px;
+  margin-left:10px;
+  font-family: 'Arvo', serif;
+
+
+
+}
+.nav-link:hover{
+    border-bottom: 2px red solid;
+}
+#hd
+{
+  text-align:center;
+  font-family: 'IBM Plex Serif', serif;
+
+}
+#sch
+{
+  height: 70px;
+}
+#ki
+{
+  padding-left:-10px;
+  font-family: 'Arvo', serif;
+  font-weight: 400;
+
+
+}
+#jus
+{
+  text-align: justify;
+  line-height:150%;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 900;
+
+}
+#ik
+{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Arvo', serif;
+}
+#po
+{
+  border: 1px red solid;
+  border-radius:50%;
+  display: inline-block;
+  height:50px;
+  width:50px;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+
+}
+#ci
+{
+  font-family: 'IBM Plex Serif', serif;
+}
+.sea
+{
+  background-image: linear-gradient(rgba(0,0,0,0.11),rgba(0,0,0,1)),url(nm.jpg);
+  background-size: cover;
+  height:1300px;
+  padding-left:220px;
+}
+#as
+{
+  font-family: 'Cinzel', serif;
+  font-weight:bolder;
+}
+#cda
+{
+  height:430px;
+  margin-left: 200px;
+  margin-top:-350px;
+
+
+}
+#re
+{
+  border-radius:;
+  border: 2px solid #FFFFFF;
+  height:50px;
+  width:50px;
+  text-align: center;
+  margin-left: 400px;
+  display: inline-block;
+  font-size:20px;
+}
+#gh
+{
+  height: 150px;
+  margin-left:70px;
+}
+#par
+{
+  text-align:justify;
+  color:#ffff;
+  font-family: 'Orbitron', sans-serif;
+  font-size:15px;
+  word-spacing:2px;
+  letter-spacing:2px;
+}
+#def
+{
+  border-radius:50%;
+  height:300px;
+  width:250px;
+  float:left;
+}
+#we
+{
+  color:#ffff;
+  font-size:20px;
+  text-align:justify;
+  word-spacing:1px;
+  line-height:140%;
+  font-family: 'Josefin Slab', serif;
+  font-weight:700;
+
+}
+#tag{
+  text-align:center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+
+
+
+
+}
+#sa
+{
+  text-align: justify;
+  font-family: 'Arvo', serif;
+  line-height:140%;
+  letter-spacing:0.5px;
+  word-spacing:0.5px;
+
+}
+#gds{
+  height:320px;
+  width:320px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:20px;
+  border-radius: 50%;
+
+}
+#saa
+{
+  text-align: justify;
+  font-family: 'Arvo', serif;
+  line-height:140%;
+  letter-spacing:1px;
+  word-spacing:0.5px;
+
+
+
+}
+#saq
+{
+  text-align: center;
+}
+#lol
+{
+
+}

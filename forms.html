@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Responsive Contact us form Using HTML and CSS</title>
+	<link rel="stylesheet" href="bac.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="row">
+
+
+    </div>
+  </div>
+<div class="wrapper">
+    <img src="uks1a.png" id="lg" alt="">
+  <div class="title">
+    <h1>Registration Form</h1>
+  </div>
+  <form>
+  <div class="contact-form">
+    <div class="input-fields">
+      <input type="text" class="input" placeholder="Ward's-Name" id="Namechild">
+        <input type="text" class="input" placeholder="Ward-DOB" id="Childdob">
+      <input type="text" class="input" placeholder="Father/Mother Name" id="FM">
+      <input type="text" class="input" placeholder="Phone-Number" id="Numb">
+      <input type="email" class="input" placeholder="Email-Id" id="Mail">
+       <button id="addBtn" class="btn waves-effect waves-light">Add</button>
+    </div>
+    </div>
+    </form>
+  </div>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-database.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAHTTvEvxeUkhbXSgbZhBK84JMTFSq6iik",
+    authDomain: "united-website-2bfda.firebaseapp.com",
+    databaseURL: "https://united-website-2bfda.firebaseio.com",
+    projectId: "united-website-2bfda",
+    storageBucket: "united-website-2bfda.appspot.com",
+    messagingSenderId: "384473943851",
+    appId: "1:384473943851:web:63439aa5e607a5bbec3f6e",
+    measurementId: "G-LW21S76W5K"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+<script src="./main.js"></script>
+</body>
+</html>
